@@ -17,8 +17,7 @@ h1 {
   background-color: bisque;
   position: relative;
   padding: 10px;
-  margin-bottom: 10px;
-  margin-right: 0px;
+
 }
 
 .row h2 {
@@ -32,6 +31,8 @@ h1 {
 }
 
 .row p {
+    width:90%;
+    margin: 2%;
   padding-top: 50px;
 }
 

@@ -1,0 +1,25 @@
+.navbar-brand a h1 {
+  color: black;
+}
+
+.navbar-brand a:hover,
+.navbar-brand a:focus {
+  color: black;
+  text-decoration: none;
+}
+
+.navbar-brand {
+  height: 80px;
+}
+
+#header-nav {
+  background-color: bisque;
+}
+
+#collapsable-nav #nav-list {
+  background-color: #cce5ff;
+}
+
+.container-fluid .section {
+  background-color: #cce5ff;
+}
